@@ -3,9 +3,12 @@ local servers = {
 	-- "cssls",
 	-- "html",
 	-- "tsserver",
+  "rust_analyzer",
 	"pyright",
+  "clangd",
+  "cmake",
 	-- "bashls",
-	"jsonls",
+	-- "jsonls",
 	-- "yamlls",
 }
 
